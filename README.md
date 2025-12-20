@@ -40,7 +40,7 @@ Advanced Telegram bot combining NLP with AI-powered psychological support
 ## 📫 Let's Connect!
 
 - **Email:** muhametsinsultam@gmail.com
-
+- **Kwork** https://kwork.ru/user/senku_sul
 
 ---
 
