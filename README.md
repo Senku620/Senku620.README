@@ -40,7 +40,6 @@ Advanced Telegram bot combining NLP with AI-powered psychological support
 ## 📫 Let's Connect!
 
 - **Email:** muhametsinsultam@gmail.com
-- **Telegram:** <img width="1044" height="1230" alt="image" src="https://github.com/user-attachments/assets/e11f7f87-5e99-411b-a74b-6e36e0531cd5" />
 
 
 ---
