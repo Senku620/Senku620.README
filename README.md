@@ -16,8 +16,8 @@ Welcome to my GitHub! I'm a passionate developer specializing in creating intell
 ## 💻 Tech Stack
 
 ### Languages
-- **Python** - Telegram bots, backend, data processing
-- 
+- **Python**
+- **PHP** 
 
 ### Frameworks & Tools
 - **aiogram 3.x** - Async Telegram bot framework
